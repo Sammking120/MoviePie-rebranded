@@ -1,2 +1,2 @@
-# Movify-rebrand
-Movies Site application that utilizes IMDB api to display movies trailer, rating, Actors etc
+# MovieShopBrowse
+The App Helps Browse through Movies on the IDMB movie Database
